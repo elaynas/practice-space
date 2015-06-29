@@ -1,0 +1,23 @@
+body{ 
+	background: red;
+	background-image: url("../img/birthdayflyer_31415.jpg");
+}
+@import url(http://fonts.googleapis.com/css?family=Lora:400,700,400italic);
+
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700italic,400italic,700);
+
+body{
+  font-family: 'Lora', serif;
+  background: url("https://download.unsplash.com/reserve/OnRKhvlFQ2uJNSx5O3cc_DSC00560.jpg");
+}
+
+h1 {font-family: 'Playfair Display', serif;
+color: #E5CA9D;
+font-size: 4.375em;
+font-weight: 400;
+line-height: 1.07143;
+margin-bottom: 0.5em;
+}
+
+.summary { font-size:1.5em
+}
